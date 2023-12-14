@@ -1,0 +1,9 @@
+import 'package:ckm/utils/popups/network.dart';
+import 'package:get/get.dart';
+
+class GeneralBindings extends Bindings {
+  @override
+  void dependencies(){
+    Get.put(Network());
+  }
+}

@@ -1,0 +1,10 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "272727"
+  image: assets/logos/CAT-Splash-Dark.png
+ 
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "272727"
+    image: assets/logos/CAT-Splash-Dark.png
+    
