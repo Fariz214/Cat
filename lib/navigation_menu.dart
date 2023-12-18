@@ -1,4 +1,4 @@
-import 'package:ckm/features/application/screens/budget/testing.dart';
+import 'package:ckm/features/application/screens/budget/budget_screen.dart';
 import 'package:ckm/features/application/screens/goals/goals_screen.dart';
 import 'package:ckm/features/application/screens/goals/switch.dart';
 import 'package:ckm/features/application/screens/history/history_screen.dart';

@@ -1,6 +1,6 @@
 import 'package:ckm/common/widgets/login_widgets/login_divider.dart';
 import 'package:ckm/features/application/screens/add/rupiah.dart';
-import 'package:ckm/features/personalization/screens/settings/drawer_settings.dart';
+import 'package:ckm/features/personalization/screens/profile/widget/drawer_settings.dart';
 import 'package:ckm/utils/constants/colors.dart';
 import 'package:ckm/utils/constants/sizes.dart';
 import 'package:ckm/utils/helpers/helper_functions.dart';

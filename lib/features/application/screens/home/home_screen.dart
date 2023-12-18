@@ -2,7 +2,7 @@ import 'package:ckm/common/widgets/appbar_widget/appbar.dart';
 import 'package:ckm/common/widgets/drawer/drawer_menu.dart';
 import 'package:ckm/common/widgets/header_widget/header_design.dart';
 import 'package:ckm/features/application/screens/home/home_image.dart';
-import 'package:ckm/features/personalization/screens/settings/drawer_settings.dart';
+import 'package:ckm/features/personalization/screens/profile/widget/drawer_settings.dart';
 import 'package:ckm/utils/constants/colors.dart';
 import 'package:ckm/utils/constants/sizes.dart';
 import 'package:ckm/utils/constants/text_strings.dart';
